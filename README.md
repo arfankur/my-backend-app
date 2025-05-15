@@ -177,13 +177,6 @@ Authorization: Bearer <token>
 - Sorting by any field
 - Direction control (asc/desc)
 
-## Testing
-
-Run the test suite:
-```bash
-php artisan test
-```
-
 ## Security
 
 - All endpoints are protected with authentication
